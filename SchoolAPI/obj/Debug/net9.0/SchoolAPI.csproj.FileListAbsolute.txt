@@ -157,3 +157,4 @@ C:\Users\dell\Desktop\supinfo\C#\SchoolProject\SchoolAPI\obj\Debug\net9.0\ref\Sc
 C:\Users\dell\Desktop\supinfo\C#\SchoolProject\SchoolAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\dell\Desktop\supinfo\C#\SchoolProject\SchoolAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\dell\Desktop\supinfo\C#\SchoolProject\SchoolAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dell\Desktop\supinfo\C#\SchoolProject\SchoolAPI\obj\Debug\net9.0\SchoolAPI.sourcelink.json
