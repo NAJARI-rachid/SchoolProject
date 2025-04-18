@@ -26,6 +26,7 @@ public class ClasseController : ControllerBase
     [HttpPost]
     public async Task<ActionResult<CreatClasseDto>> Create(CreatClasseDto input)//input c'est ce que j'envoie dans ma route
     {
+        Console.WriteLine(input.Name);
         var classe = new Class { Name = input.Name,  Promo = input.Promo };
         _db.Classes.Add(classe);
         await _db.SaveChangesAsync();

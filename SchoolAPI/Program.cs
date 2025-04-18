@@ -21,6 +21,7 @@ if (app.Environment.IsDevelopment())
             });
 
 }
+Console.Writeline("Swagger is running on /swagger");
 //app.UseAuthorization();
 app.MapControllers();
 app.Run();
